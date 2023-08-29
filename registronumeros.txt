@@ -1,0 +1,5 @@
+Primo: 3
+Compuesto: 8
+Compuesto: 85
+Compuesto: 99
+Primo: 73

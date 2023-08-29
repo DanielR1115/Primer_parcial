@@ -1,0 +1,4 @@
+Precio: 100.00, IVA: 12.00, Sin IVA: 88.00
+Precio: 100.00, IVA: 12.00, Sin IVA: 88.00
+Precio: 90.00, IVA: 10.80, Sin IVA: 79.20
+Precio: 75.00, IVA: 9.00, Sin IVA: 66.00
